@@ -1,37 +1,10 @@
-# JupyterLite Demo
+# Workshop Analysis and Processing of sounds 2026
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+First of thank you for participating during the previous two sessions. I hope you had fun and learned something new. In this session, we will analyze the data that we collected with the two tapping experiments. We will use a programming language called Python with some plug-ins (called libraries) to do this. If you have never used Python before, don't worry. The most important thing here is to see the process of analyzing data. The goal here is to see some plots! Of course, if you're interested, feel free to ask me questions (you can always reach me at jelle.vanderwerff (at) uniroma1.it), or ask them during the final session on the 9th of April.
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+To begin: click one of the two links below:
 
-## ✨ Try it in your browser ✨
+- [Analysis of the tapping in twos/threes experiment]()
+- [Analysis of the tapping to sounds with different attack experiment]()
 
-➡️ **https://jupyterlite.github.io/demo**
-
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
-
-## Requirements
-
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
-
-This template provides the Pyodide kernel (`jupyterlite-pyodide-kernel`), the JavaScript kernel (`jupyterlite-javascript-kernel`), and the p5 kernel (`jupyterlite-p5-kernel`), along with other
-optional utilities and extensions to make the JupyterLite experience more enjoyable. See the
-[`requirements.txt` file](requirements.txt) for a list of all the dependencies provided.
-
-For a template based on the Xeus kernel, see the [`jupyterlite/xeus-python-demo` repository](https://github.com/jupyterlite/xeus-python-demo)
-
-
+-- Jelle van der Werff
